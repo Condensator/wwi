@@ -1,0 +1,7 @@
+[
+  {
+    "schema": "Purchasing",
+    "name": "SupplierTransactions",
+    "type": "Table"
+  }
+]

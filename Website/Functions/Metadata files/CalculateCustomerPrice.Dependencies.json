@@ -1,0 +1,22 @@
+[
+  {
+    "schema": "Sales",
+    "name": "Customers",
+    "type": "Table"
+  },
+  {
+    "schema": "Sales",
+    "name": "SpecialDeals",
+    "type": "Table"
+  },
+  {
+    "schema": "Warehouse",
+    "name": "StockItems",
+    "type": "Table"
+  },
+  {
+    "schema": "Warehouse",
+    "name": "StockItemStockGroups",
+    "type": "Table"
+  }
+]

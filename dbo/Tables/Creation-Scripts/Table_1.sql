@@ -1,0 +1,1 @@
+CREATE TABLE [dbo].[Table_1](	  [qwert] NCHAR(10) COLLATE Latin1_General_100_CI_AS NULL	, [sdfg] NCHAR(10) COLLATE Latin1_General_100_CI_AS NULL	, [cxvb] NCHAR(10) COLLATE Latin1_General_100_CI_AS NULL)GO

@@ -1,0 +1,17 @@
+[
+  {
+    "schema": "Application",
+    "name": "People",
+    "type": "Table"
+  },
+  {
+    "schema": "Purchasing",
+    "name": "Suppliers",
+    "type": "Table"
+  },
+  {
+    "schema": "Sales",
+    "name": "Customers",
+    "type": "Table"
+  }
+]
