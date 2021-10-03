@@ -1,5 +1,5 @@
-
-CREATE PROCEDURE [Application].Configuration_ApplyFullTextIndexing
+--Just to modify
+CREATE PROCEDURE [Application].[Configuration_ApplyFullTextIndexing]
 WITH EXECUTE AS OWNER
 AS
 BEGIN

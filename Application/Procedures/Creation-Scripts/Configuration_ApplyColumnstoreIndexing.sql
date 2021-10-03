@@ -1,5 +1,5 @@
-
-CREATE PROCEDURE [Application].Configuration_ApplyColumnstoreIndexing
+--Just to modify
+CREATE PROCEDURE [Application].[Configuration_ApplyColumnstoreIndexing]
 WITH EXECUTE AS OWNER
 AS
 BEGIN

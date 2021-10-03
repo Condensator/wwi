@@ -1,5 +1,5 @@
-
-CREATE PROCEDURE [Application].Configuration_ApplyAuditing
+--Just to modify
+CREATE PROCEDURE [Application].[Configuration_ApplyAuditing]
 AS
 BEGIN
     SET NOCOUNT ON;
