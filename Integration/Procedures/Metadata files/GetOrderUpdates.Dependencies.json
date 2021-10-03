@@ -1,0 +1,22 @@
+[
+  {
+    "schema": "Sales",
+    "name": "Customers",
+    "type": "Table"
+  },
+  {
+    "schema": "Sales",
+    "name": "OrderLines",
+    "type": "Table"
+  },
+  {
+    "schema": "Sales",
+    "name": "Orders",
+    "type": "Table"
+  },
+  {
+    "schema": "Warehouse",
+    "name": "PackageTypes",
+    "type": "Table"
+  }
+]

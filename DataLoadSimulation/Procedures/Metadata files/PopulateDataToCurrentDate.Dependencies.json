@@ -1,0 +1,17 @@
+[
+  {
+    "schema": "DataLoadSimulation",
+    "name": "Configuration_ApplyDataLoadSimulationProcedures",
+    "type": "Procedure"
+  },
+  {
+    "schema": "DataLoadSimulation",
+    "name": "Configuration_RemoveDataLoadSimulationProcedures",
+    "type": "Procedure"
+  },
+  {
+    "schema": "Sales",
+    "name": "Orders",
+    "type": "Table"
+  }
+]

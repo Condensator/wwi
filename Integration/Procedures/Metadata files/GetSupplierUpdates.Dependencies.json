@@ -1,0 +1,22 @@
+[
+  {
+    "schema": "Purchasing",
+    "name": "SupplierCategories",
+    "type": "Table"
+  },
+  {
+    "schema": "Purchasing",
+    "name": "SupplierCategories_Archive",
+    "type": "Table"
+  },
+  {
+    "schema": "Purchasing",
+    "name": "Suppliers",
+    "type": "Table"
+  },
+  {
+    "schema": "Purchasing",
+    "name": "Suppliers_Archive",
+    "type": "Table"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "schema": "Application",
+    "name": "People",
+    "type": "Table"
+  },
+  {
+    "schema": "Application",
+    "name": "People_Archive",
+    "type": "Table"
+  }
+]

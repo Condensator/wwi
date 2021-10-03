@@ -1,0 +1,27 @@
+[
+  {
+    "schema": "Sales",
+    "name": "Customers",
+    "type": "Table"
+  },
+  {
+    "schema": "Sales",
+    "name": "InvoiceLines",
+    "type": "Table"
+  },
+  {
+    "schema": "Sales",
+    "name": "Invoices",
+    "type": "Table"
+  },
+  {
+    "schema": "Warehouse",
+    "name": "PackageTypes",
+    "type": "Table"
+  },
+  {
+    "schema": "Warehouse",
+    "name": "StockItems",
+    "type": "Table"
+  }
+]

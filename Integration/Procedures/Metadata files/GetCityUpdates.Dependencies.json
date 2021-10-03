@@ -1,0 +1,32 @@
+[
+  {
+    "schema": "Application",
+    "name": "Cities",
+    "type": "Table"
+  },
+  {
+    "schema": "Application",
+    "name": "Cities_Archive",
+    "type": "Table"
+  },
+  {
+    "schema": "Application",
+    "name": "Countries",
+    "type": "Table"
+  },
+  {
+    "schema": "Application",
+    "name": "Countries_Archive",
+    "type": "Table"
+  },
+  {
+    "schema": "Application",
+    "name": "StateProvinces",
+    "type": "Table"
+  },
+  {
+    "schema": "Application",
+    "name": "StateProvinces_Archive",
+    "type": "Table"
+  }
+]

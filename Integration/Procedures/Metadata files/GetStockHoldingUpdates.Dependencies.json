@@ -1,0 +1,7 @@
+[
+  {
+    "schema": "Warehouse",
+    "name": "StockItemHoldings",
+    "type": "Table"
+  }
+]
