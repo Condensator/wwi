@@ -1,1 +1,0 @@
-CREATE TABLE [Person].[PhoneNumberType](	  [PhoneNumberTypeID] INT NOT NULL IDENTITY(1         ,1)	, [Name] NAME COLLATE Latin1_General_CI_AS NOT NULL	, [ModifiedDate] DATETIME NOT NULL DEFAULT(getdate())	, CONSTRAINT [PK_PhoneNumberType_PhoneNumberTypeID] PRIMARY KEY ([PhoneNumberTypeID] ASC))GO

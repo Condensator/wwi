@@ -1,1 +1,0 @@
-CREATE TABLE [Production].[Culture](	  [CultureID] NCHAR(6) COLLATE Latin1_General_CI_AS NOT NULL	, [Name] NAME COLLATE Latin1_General_CI_AS NOT NULL	, [ModifiedDate] DATETIME NOT NULL DEFAULT(getdate())	, CONSTRAINT [PK_Culture_CultureID] PRIMARY KEY ([CultureID] ASC))GOCREATE UNIQUE NONCLUSTERED INDEX [AK_Culture_Name] ON [Production].[Culture] ([Name] ASC)GO
