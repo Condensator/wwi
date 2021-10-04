@@ -1,5 +1,5 @@
---Just to modify
-CREATE PROCEDURE [Application].[AddRoleMemberIfNonexistent]
+
+CREATE PROCEDURE [Application].AddRoleMemberIfNonexistent
 @RoleName sysname,
 @UserName sysname
 WITH EXECUTE AS OWNER

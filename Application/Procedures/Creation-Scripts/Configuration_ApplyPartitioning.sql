@@ -1,5 +1,5 @@
---Just to modify
-CREATE PROCEDURE [Application].[Configuration_ApplyPartitioning]
+
+CREATE PROCEDURE [Application].Configuration_ApplyPartitioning
 WITH EXECUTE AS OWNER
 AS
 BEGIN

@@ -1,1 +1,1 @@
-CREATE TABLE [Application].[TransactionTypes_Archive](	  [TransactionTypeID] INT NOT NULL	, [TransactionTypeName] NVARCHAR(50) COLLATE Latin1_General_100_CI_AS NOT NULL	, [LastEditedBy] INT NOT NULL	, [ValidFrom] DATETIME2(7) NOT NULL	, [ValidTo] DATETIME2(7) NOT NULL)GO
+CREATE TABLE [Application].[TransactionTypes_Archive](	  [TransactionTypeID] INT NOT NULL	, [TransactionTypeName] NVARCHAR(50) COLLATE Latin1_General_CI_AS NOT NULL	, [LastEditedBy] INT NOT NULL	, [ValidFrom] DATETIME2(7) NOT NULL	, [ValidTo] DATETIME2(7) NOT NULL)GO

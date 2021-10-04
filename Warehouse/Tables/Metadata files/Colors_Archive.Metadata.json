@@ -49,7 +49,7 @@
       "max_length": 40,
       "precision": 0,
       "scale": 0,
-      "collation_name": "Latin1_General_100_CI_AS",
+      "collation_name": "Latin1_General_CI_AS",
       "is_nullable": false,
       "is_ansi_padded": true,
       "is_rowguidcol": false,
