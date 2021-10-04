@@ -1,0 +1,1 @@
+CREATE TABLE [Sales].[Currency](	  [CurrencyCode] NCHAR(3) COLLATE Latin1_General_CI_AS NOT NULL	, [Name] NAME COLLATE Latin1_General_CI_AS NOT NULL	, [ModifiedDate] DATETIME NOT NULL DEFAULT(getdate())	, CONSTRAINT [PK_Currency_CurrencyCode] PRIMARY KEY ([CurrencyCode] ASC))GOCREATE UNIQUE NONCLUSTERED INDEX [AK_Currency_Name] ON [Sales].[Currency] ([Name] ASC)GO

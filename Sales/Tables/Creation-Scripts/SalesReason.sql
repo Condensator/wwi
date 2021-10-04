@@ -1,0 +1,1 @@
+CREATE TABLE [Sales].[SalesReason](	  [SalesReasonID] INT NOT NULL IDENTITY(1         ,1)	, [Name] NAME COLLATE Latin1_General_CI_AS NOT NULL	, [ReasonType] NAME COLLATE Latin1_General_CI_AS NOT NULL	, [ModifiedDate] DATETIME NOT NULL DEFAULT(getdate())	, CONSTRAINT [PK_SalesReason_SalesReasonID] PRIMARY KEY ([SalesReasonID] ASC))GO

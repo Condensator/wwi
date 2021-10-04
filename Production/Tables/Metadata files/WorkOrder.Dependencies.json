@@ -1,0 +1,7 @@
+[
+  {
+    "schema": "Production",
+    "name": "WorkOrder",
+    "type": "Table"
+  }
+]
