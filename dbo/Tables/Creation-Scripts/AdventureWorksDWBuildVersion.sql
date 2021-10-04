@@ -1,0 +1,1 @@
+CREATE TABLE [dbo].[AdventureWorksDWBuildVersion](	  [DBVersion] NVARCHAR(50) COLLATE Latin1_General_CI_AS NULL	, [VersionDate] DATETIME NULL)GO

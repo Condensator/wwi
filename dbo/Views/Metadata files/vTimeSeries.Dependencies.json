@@ -1,0 +1,12 @@
+[
+  {
+    "schema": "dbo",
+    "name": "udfBuildISO8601Date",
+    "type": "Function"
+  },
+  {
+    "schema": "dbo",
+    "name": "vDMPrep",
+    "type": "View"
+  }
+]

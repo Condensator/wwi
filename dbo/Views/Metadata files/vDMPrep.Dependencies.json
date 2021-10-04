@@ -1,0 +1,42 @@
+[
+  {
+    "schema": "dbo",
+    "name": "DimCustomer",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "DimDate",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "DimGeography",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "DimProduct",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "DimProductCategory",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "DimProductSubcategory",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "DimSalesTerritory",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "FactInternetSales",
+    "type": "Table"
+  }
+]

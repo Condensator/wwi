@@ -1,0 +1,12 @@
+[
+  {
+    "schema": "dbo",
+    "name": "DimCustomer",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "vDMPrep",
+    "type": "View"
+  }
+]
