@@ -1,0 +1,7 @@
+[
+  {
+    "schema": "Sales",
+    "name": "CustomerTransactions",
+    "type": "Table"
+  }
+]
