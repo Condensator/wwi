@@ -1,1 +1,1 @@
-CREATE TABLE [dbo].[Table_1](	  [xcv] NCHAR(10) COLLATE Latin1_General_CI_AS NOT NULL	, [sdf] NCHAR(10) COLLATE Latin1_General_CI_AS NOT NULL	, [dfg] NCHAR(10) COLLATE Latin1_General_CI_AS NOT NULL	, [hjk] NCHAR(10) COLLATE Latin1_General_CI_AS NOT NULL	, CONSTRAINT [PK_Table_1] PRIMARY KEY ([xcv] ASC, [sdf] ASC, [dfg] ASC, [hjk] ASC))GO
+CREATE TABLE [dbo].[Table_1](	  [c1] NCHAR(10) COLLATE Latin1_General_CI_AS NULL)GO

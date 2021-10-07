@@ -1,0 +1,32 @@
+[
+  {
+    "schema": "Person",
+    "name": "Address",
+    "type": "Table"
+  },
+  {
+    "schema": "Person",
+    "name": "AddressType",
+    "type": "Table"
+  },
+  {
+    "schema": "Person",
+    "name": "BusinessEntityAddress",
+    "type": "Table"
+  },
+  {
+    "schema": "Person",
+    "name": "CountryRegion",
+    "type": "Table"
+  },
+  {
+    "schema": "Person",
+    "name": "StateProvince",
+    "type": "Table"
+  },
+  {
+    "schema": "Sales",
+    "name": "Store",
+    "type": "Table"
+  }
+]
