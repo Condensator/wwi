@@ -1,0 +1,12 @@
+[
+  {
+    "schema": "Application",
+    "name": "TransactionTypes",
+    "type": "Table"
+  },
+  {
+    "schema": "Application",
+    "name": "TransactionTypes_Archive",
+    "type": "Table"
+  }
+]

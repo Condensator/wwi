@@ -1,0 +1,12 @@
+[
+  {
+    "schema": "DataLoadSimulation",
+    "name": "DeactivateTemporalTablesBeforeDataLoad",
+    "type": "Procedure"
+  },
+  {
+    "schema": "DataLoadSimulation",
+    "name": "ReactivateTemporalTablesAfterDataLoad",
+    "type": "Procedure"
+  }
+]

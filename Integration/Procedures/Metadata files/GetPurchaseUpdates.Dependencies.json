@@ -1,0 +1,22 @@
+[
+  {
+    "schema": "Purchasing",
+    "name": "PurchaseOrderLines",
+    "type": "Table"
+  },
+  {
+    "schema": "Purchasing",
+    "name": "PurchaseOrders",
+    "type": "Table"
+  },
+  {
+    "schema": "Warehouse",
+    "name": "PackageTypes",
+    "type": "Table"
+  },
+  {
+    "schema": "Warehouse",
+    "name": "StockItems",
+    "type": "Table"
+  }
+]
