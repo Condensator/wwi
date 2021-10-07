@@ -1,1 +1,0 @@
-CREATE TABLE [dbo].[DimSalesReason](	  [SalesReasonKey] INT NOT NULL IDENTITY(1         ,1)	, [SalesReasonAlternateKey] INT NOT NULL	, [SalesReasonName] NVARCHAR(50) COLLATE Latin1_General_CI_AS NOT NULL	, [SalesReasonReasonType] NVARCHAR(50) COLLATE Latin1_General_CI_AS NOT NULL	, CONSTRAINT [PK_DimSalesReason_SalesReasonKey] PRIMARY KEY ([SalesReasonKey] ASC))GO

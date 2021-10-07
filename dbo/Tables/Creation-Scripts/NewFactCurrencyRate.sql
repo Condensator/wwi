@@ -1,1 +1,0 @@
-CREATE TABLE [dbo].[NewFactCurrencyRate](	  [AverageRate] REAL NULL	, [CurrencyID] NVARCHAR(3) COLLATE Latin1_General_CI_AS NULL	, [CurrencyDate] DATE NULL	, [EndOfDayRate] REAL NULL	, [CurrencyKey] INT NULL	, [DateKey] INT NULL)GO
