@@ -1,1 +1,0 @@
-CREATE TYPE [Website].[OrderLineList] AS TABLE (	  [OrderReference] INT NULL	, [StockItemID] INT NULL	, [Description] NVARCHAR(100) COLLATE Latin1_General_100_CI_AS NULL	, [Quantity] INT NULL)GOCREATE NONCLUSTERED INDEX [IX_Website_OrderLineList] ON [Website].[OrderLineList] ([OrderReference] ASC)GO
