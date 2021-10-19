@@ -1,0 +1,12 @@
+[
+  {
+    "schema": "Warehouse",
+    "name": "StockItems",
+    "type": "Table"
+  },
+  {
+    "schema": "Warehouse",
+    "name": "StockItems_Archive",
+    "type": "Table"
+  }
+]

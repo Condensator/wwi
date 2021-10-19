@@ -1,0 +1,17 @@
+[
+  {
+    "schema": "Purchasing",
+    "name": "SupplierTransactions",
+    "type": "Table"
+  },
+  {
+    "schema": "Sales",
+    "name": "CustomerTransactions",
+    "type": "Table"
+  },
+  {
+    "schema": "Sales",
+    "name": "Invoices",
+    "type": "Table"
+  }
+]
