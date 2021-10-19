@@ -1,7 +1,0 @@
-[
-  {
-    "schema": "Sequences",
-    "name": "ReseedSequenceBeyondTableValues",
-    "type": "Procedure"
-  }
-]
