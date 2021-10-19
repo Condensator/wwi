@@ -1,7 +1,0 @@
-[
-  {
-    "schema": "Warehouse",
-    "name": "ColdRoomTemperatures",
-    "type": "Table"
-  }
-]
